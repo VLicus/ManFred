@@ -1,0 +1,464 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Juan Samuel",
+      "surnames": "Cobas Ortiz",
+      "title": "Recent CS Grad with Hospitality Expertise: Thrives in Tech & Service.",
+      "description": "My name is Samuel Cobas, a recent Computer Science graduate from London South Bank University. Currently, I am diving deep into the world of Linux Systems, network fundamentals, and sharpening my skills in Sysadmin and DevOps through self-study.\n\nMy passion for technology is complemented by 7 years of experience in the hospitality industry, where I've honed excellent verbal communication, active listening, and detail-oriented skills as a Bar Manager & Bartender. I thrive on collaboration, embrace criticism, and excel under pressure.\n\nYou will find more details about my education and experience on my LinkedIn profile. I am confident that my technical and soft skills would be a valuable asset to your team.\n\nThank you for your time and consideration. I am available for an interview at your earliest convenience.\n\n***Sincerely***,\n\n***Samuel Cobas***\n\n***https://www.linkedin.com/in/samuel-cobas/***",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/24/42d87862-4b9b-486e-b285-169be7ece10a_20240116_130238-min.jpg",
+        "alt": "20240116_130238-min.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJq_3ImCfnuhIRb2oppbZFOK8)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Gerona"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/samuel-cobas"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Wright Brothers",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/fd01831d-a4a0-4bb6-8f55-d8ed474fab61_linkedin-photo-53811.linkedin-photo-53811",
+            "alt": "24/02/08/fd01831d-a4a0-4bb6-8f55-d8ed474fab61_linkedin-photo-53811.linkedin-photo-53811"
+          }
+        },
+        "roles": [
+          {
+            "name": "Head Bartender",
+            "startDate": "2023-08-01",
+            "finishDate": "2023-11-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "E&O Kitchen and Bar"
+        },
+        "roles": [
+          {
+            "name": "Bar Supervisor",
+            "startDate": "2022-11-01",
+            "finishDate": "2023-06-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Soho House & Co",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/1f2e9468-77ab-4726-93bc-c381ea75e68d_linkedin-photo-53811.linkedin-photo-53811",
+            "alt": "24/02/08/1f2e9468-77ab-4726-93bc-c381ea75e68d_linkedin-photo-53811.linkedin-photo-53811"
+          }
+        },
+        "roles": [
+          {
+            "name": "Bartender",
+            "startDate": "2022-09-01",
+            "finishDate": "2022-11-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ricker Restaurants"
+        },
+        "roles": [
+          {
+            "name": "Assistant Bar Manager",
+            "startDate": "2019-02-01",
+            "finishDate": "2022-11-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Brasserie of Light",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/cd238449-10c6-487d-acff-177eb071f98e_linkedin-photo-53811.linkedin-photo-53811",
+            "alt": "24/02/08/cd238449-10c6-487d-acff-177eb071f98e_linkedin-photo-53811.linkedin-photo-53811"
+          }
+        },
+        "roles": [
+          {
+            "name": "Bartender",
+            "startDate": "2018-11-01",
+            "finishDate": "2019-02-28"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ricker Restaurants"
+        },
+        "roles": [
+          {
+            "name": "Bartender",
+            "startDate": "2017-10-01",
+            "finishDate": "2018-11-30"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Made in Italy Group Ltd",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/ae971159-43e0-4dd9-a36b-312311e2c535_linkedin-photo-53811.linkedin-photo-53811",
+            "alt": "24/02/08/ae971159-43e0-4dd9-a36b-312311e2c535_linkedin-photo-53811.linkedin-photo-53811"
+          }
+        },
+        "roles": [
+          {
+            "name": "Bartender",
+            "startDate": "2017-08-01",
+            "finishDate": "2017-10-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ricker Restaurants"
+        },
+        "roles": [
+          {
+            "name": "Bartender",
+            "startDate": "2016-11-01",
+            "finishDate": "2017-08-31"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Debian",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Science",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "London South Bank University",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/1c380609-1467-4a75-a476-4e2a4acab9d8_linkedin-photo-53811.linkedin-photo-53811",
+            "alt": "24/02/08/1c380609-1467-4a75-a476-4e2a4acab9d8_linkedin-photo-53811.linkedin-photo-53811"
+          }
+        },
+        "finishDate": "2023-08-31"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Listening ability",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/samuel-cobas",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "samu.cobas.ort@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "AWS Lambda",
+          "type": "technology"
+        },
+        {
+          "name": "Android SDK",
+          "type": "technology"
+        },
+        {
+          "name": "AngularJS",
+          "type": "technology"
+        },
+        {
+          "name": "Ansible",
+          "type": "technology"
+        },
+        {
+          "name": "Atlassian",
+          "type": "technology"
+        },
+        {
+          "name": "Azure",
+          "type": "technology"
+        },
+        {
+          "name": "Bash",
+          "type": "technology"
+        },
+        {
+          "name": "Cisco",
+          "type": "technology"
+        },
+        {
+          "name": "Cloud Private",
+          "type": "technology"
+        },
+        {
+          "name": "DNS",
+          "type": "technology"
+        },
+        {
+          "name": "Debian",
+          "type": "technology"
+        },
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Flutter",
+          "type": "technology"
+        },
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
+          "name": "Gitflow",
+          "type": "technology"
+        },
+        {
+          "name": "Github",
+          "type": "technology"
+        },
+        {
+          "name": "Github Actions",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        },
+        {
+          "name": "Google Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "Google Kubernetes Engine",
+          "type": "technology"
+        },
+        {
+          "name": "Grafana",
+          "type": "technology"
+        },
+        {
+          "name": "JSON",
+          "type": "technology"
+        },
+        {
+          "name": "Jira",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "MariaDB",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "Nginx",
+          "type": "technology"
+        },
+        {
+          "name": "OpenCV",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "RedHat",
+          "type": "technology"
+        },
+        {
+          "name": "TensorFlow",
+          "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
+        },
+        {
+          "name": "Unix",
+          "type": "technology"
+        },
+        {
+          "name": "Wireshark",
+          "type": "technology"
+        },
+        {
+          "name": "YAML",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "DBA",
+        "DevOps & Infrastructure & SRE",
+        "Support Engineer",
+        "SysAdmin"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Bash",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Google Cloud",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "***I thrive in dynamic environments where technology is the driving force***. I'm fueled by continuous learning and problem-solving, and I seek a collaborative workplace that values open communication and fosters ongoing development.\n\n***My ideal workday would be a blend of technical challenges***. This allows me to leverage both my strong technical skillset and the interpersonal skills I honed during my years in hospitality.\n\n***While initially eager to master the technical aspects*** that align with my current focus as an individual contributor, my background as a Bar Manager hints at a natural progression towards leadership roles. I'm excited about the prospect of leveraging my technical expertise to guide and manage a team in the future.",
+    "goodPractices": "I consistently utilize Root Cause Analysis (RCA) methodologies to effectively identify and address problems at work. This proactive approach ensures long-term solutions by focusing on the underlying cause of an issue, rather than simply treating its symptoms.\n\nA key element of my RCA approach is the ***5 Whys Technique***. This involves systematically asking \"why\" five times to peel back the layers of an issue and pinpoint its root cause. This iterative process helps to:\n\n+ ***Uncover hidden factors:*** By going beyond surface-level observations, RCA helps identify deeper issues that might otherwise be overlooked.\n+ ***Prevent future occurrences:*** By addressing the root cause, we can prevent similar problems from happening again, saving time and resources.\n+ ***Develop targeted solutions:*** Understanding the root cause allows for the implementation of specific solutions that directly address the issue."
+  }
+}
